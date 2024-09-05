@@ -31,3 +31,6 @@ public static void main(String[] args) {
         sll.insertFirst(8);
         sll.insertFirst(1);
         sll.printList();
+  }
+}
+
