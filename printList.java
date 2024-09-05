@@ -31,3 +31,5 @@ public class SinglyLinkedList {
         second.next = third;
         third.next = fourth;
     sll.printList();
+  }
+}
