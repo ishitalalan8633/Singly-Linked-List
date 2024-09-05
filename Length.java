@@ -48,4 +48,6 @@ public class SinglyLinkedList {
         third.next = fourth;
      sll.printList();
     System.out.print("the length is - " + sll.length());
+  }
+}
     
