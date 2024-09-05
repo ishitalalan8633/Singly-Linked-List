@@ -40,3 +40,5 @@ public class SinglyLinkedList {
         sll.insertLast(23);
         sll.insertLast(2);
         sll.printList();
+  }
+}
